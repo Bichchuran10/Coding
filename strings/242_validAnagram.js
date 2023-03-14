@@ -43,5 +43,5 @@ function validAnagram(s,t)
     return true
 }
 
-//console.log(validAnagram("anagram","nagaram"));
-console.log(validAnagram("rat","car"));
+console.log(validAnagram("anagram","nagaram"));
+//console.log(validAnagram("rat","car"));
