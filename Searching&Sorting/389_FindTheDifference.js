@@ -17,7 +17,7 @@
 
 function findDifference(s,t)
 {
-    let arr1=s.split("").sort()
+    let arr1=s.split("").sort() 
     let arr2=t.split("").sort()
     console.log(arr1)
     console.log(arr2)
