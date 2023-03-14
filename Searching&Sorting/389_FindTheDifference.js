@@ -31,4 +31,4 @@ function findDifference(s,t)
     }
 }
 
-console.log(findDifference("abcd","abcde"))
+console.log(findDifference("abcde","abcdef")) 
