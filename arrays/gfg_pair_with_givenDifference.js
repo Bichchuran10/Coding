@@ -7,6 +7,7 @@
 // Input: arr[] = {90, 70, 20, 80, 50}, n = 45
 // Output: No Such Pair
 //T.C-> O(n)
+
 function pair(arr,difference)
 {
     let map=new Map()
@@ -42,4 +43,4 @@ function pair(arr,difference)
 }
 
 
-console.log(pair([5, 20, 2,10,3,3, 50, 80],78))
+console.log(pair([5, 20,2,4,10,3,3, 50, 80],1))
