@@ -16,6 +16,7 @@ function simulate(probabilities) {
 
 }
 
+
 let resMap = {};
 
 for (let simulation=0; simulation<1000000; simulation++) {
